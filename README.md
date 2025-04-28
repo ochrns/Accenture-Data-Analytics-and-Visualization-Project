@@ -12,8 +12,8 @@ Using Excel for data analysis and Python (Matplotlib) for visualizations, I clea
 
 # Key Insights:
 * Top Content Categories: Animals, Science, Healthy Eating, Technology, Food.
-* Peak Engagement Times: 11 PM, 6–9 AM, 4 PM.
 * High-Performing Content: Photos outperformed other formats, driving engagement.
+* Peak Engagement Times: 11 PM, 6–9 AM, 4 PM.
 
   
   <img width="753" alt="Screenshot 2025-04-24 at 22 53 33" src="https://github.com/user-attachments/assets/e206323e-a422-4f15-b048-504c872da67a" />
